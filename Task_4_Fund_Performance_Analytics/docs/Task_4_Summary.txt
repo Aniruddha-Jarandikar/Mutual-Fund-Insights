@@ -1,0 +1,60 @@
+Task 4 Summary
+==============
+
+Project:
+Fund Performance Analytics
+
+Objective
+---------
+Analyze mutual fund performance using financial return metrics,
+risk-adjusted measures, benchmark comparison,
+and an overall composite score.
+
+Tasks Completed
+---------------
+
+1. Daily Return Distribution
+2. CAGR Calculation (1-Year, 3-Year, 5-Year)
+3. Sharpe Ratio Analysis
+4. Sortino Ratio Analysis
+5. Alpha and Beta Calculation
+6. Maximum Drawdown Analysis
+7. Fund Scorecard (0–100)
+8. Benchmark Comparison
+
+Major Insights
+--------------
+
+• Daily returns were centered around zero with a near-normal distribution.
+
+• Large Cap and Small Cap funds demonstrated superior long-term CAGR.
+
+• Funds with higher Sharpe and Sortino ratios consistently delivered better risk-adjusted performance.
+
+• Positive Alpha values indicated successful active fund management.
+
+• Composite scorecard ranked funds more fairly by combining growth, risk, expenses, and downside protection.
+
+• Benchmark comparison showed that several top-performing funds generated returns above market benchmarks.
+
+Deliverables
+------------
+
+✓ Performance_Analytics.ipynb
+
+✓ fund_scorecard.csv
+
+✓ alpha_beta.csv
+
+✓ Performance Charts
+
+✓ Task_4_README.md
+
+✓ Task_4_Summary.txt
+
+Outcome
+-------
+
+Successfully developed a complete mutual fund performance evaluation system using financial analytics techniques.
+
+The project demonstrates practical implementation of portfolio performance measurement, risk analysis, benchmark comparison, and composite fund ranking using Python.
